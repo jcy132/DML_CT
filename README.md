@@ -17,5 +17,5 @@ python main.py --prj_name [folder-name] --log_name [log-file-name] \
 ```
 
 
-# Acknowledgement
+### Acknowledgement
 Our source code is based on [CUT](https://github.com/taesungp/contrastive-unpaired-translation). 
