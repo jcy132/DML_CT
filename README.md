@@ -7,7 +7,10 @@
 
 
 
-### Training & Validation
+### Implementation
+We provide the source code for AAPM dataset.
+
+Refer the following code to obtain the model:
 ```
 python main.py --prj_name [folder-name] --log_name [log-file-name] \
 --dataset_name AAPM --data_root [path-to-data] --gpu_ids 0,1
