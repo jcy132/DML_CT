@@ -5,6 +5,9 @@
 <img src="https://user-images.githubusercontent.com/52989204/177431169-816f061c-49b5-4632-a532-99054e7cab29.jpg" width="800"/>
 </p> 
 
+
+
+## Training
 ```
 python main.py --prj_name [folder-name] --log_name [log-file-name] \
 --dataset_name AAPM --data_root [path-to-data] --gpu_ids 0,1
