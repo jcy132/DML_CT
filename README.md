@@ -10,6 +10,8 @@
 ### Implementation
 * We provide the source code for AAPM dataset. \
 (2016 NIH-AAPM-Mayo Clinic Low Dose CT Grand Challenge dataset)
+We randomly select 3112 images for train set, 421 images for validation set. 
+421 images are used for test set. 
 
 * Refer the following code to obtain the model:
 ```
