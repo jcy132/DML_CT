@@ -8,10 +8,10 @@
 
 
 ### Implementation
-We provide the source code for AAPM dataset. \
+*We provide the source code for AAPM dataset. \
 (2016 NIH-AAPM-Mayo Clinic Low Dose CT Grand Challenge dataset)
 
-Refer the following code to obtain the model:
+*Refer the following code to obtain the model:
 ```
 python main.py --prj_name [folder-name] --log_name [log-file-name] \
 --dataset_name AAPM --data_root [path-to-data] --gpu_ids 0,1
