@@ -19,4 +19,4 @@ python main.py --prj_name [folder-name] --log_name [log-file-name] \
 
 
 ### Acknowledgement
-Our source code is based on [CUT](https://github.com/taesungp/contrastive-unpaired-translation). 
+Our source code is based on the official implementation of [CUT](https://github.com/taesungp/contrastive-unpaired-translation). 
