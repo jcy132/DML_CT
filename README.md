@@ -5,9 +5,8 @@ Link: [https://arxiv.org/abs/2207.02377](https://arxiv.org/abs/2207.02377)
 
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/52989204/177431169-816f061c-49b5-4632-a532-99054e7cab29.jpg" width="800"/>
+<img src="https://user-images.githubusercontent.com/52989204/178413091-4cf84127-bb45-4db0-96bf-5521f46d15d0.jpg" width="800"/>
 </p> 
-
 
 ### Implementation
 * We provide the source code for AAPM dataset. \
